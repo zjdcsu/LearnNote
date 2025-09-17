@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://newzone.top/LearnNote/sitemap.xml
+Sitemap: https://newzone.top/sitemap.xml
