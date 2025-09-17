@@ -5,7 +5,7 @@ layout: Blog
 icon: fa6-solid:house-crack
 title: ZJD
 #heroImage: /logo.svg
-heroText: ZJD
+heroText: ZJD - test
 tagline: 盛年不重来，一日难再晨
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
